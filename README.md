@@ -1,4 +1,6 @@
 # 🌟 Digital Halo - Chrome Extension
+![image](https://github.com/user-attachments/assets/1df7e5f4-7440-4c20-9804-0a2c40a0fd0a)
+
 
 **Elegant social media mindfulness with Dynamic Island-inspired UI**
 
@@ -13,42 +15,19 @@ Digital Halo is a sophisticated Chrome extension that helps you build healthier 
 - **Add custom domains** for niche platforms
 
 ### 🌙 **Dynamic Island UI**
+![Screenshot 2025-07-07 225805](https://github.com/user-attachments/assets/48c9aaa4-221f-4b86-b199-7e2df401380b)
 - **Floating halo** positioned near your laptop's camera (top-center)
 - **Compact pill view** showing current usage with animated progress ring
 - **Expandable dashboard** with detailed analytics and charts
 - **Smooth animations** and transitions for a premium feel
 
 ### 📊 **Rich Analytics**
+
+![Screenshot 2025-07-07 225814](https://github.com/user-attachments/assets/45d7b265-d72f-48d6-9050-2757d89e670f)
 - **Daily usage breakdowns** by platform
 - **Visual progress rings** inspired by Apple Watch
 - **Interactive charts** showing usage patterns
 - **Historical data** with automatic cleanup
-
-### 🎨 **Beautiful Design**
-- **Neumorphic styling** with soft shadows and blur effects
-- **Dark/Light theme** support
-- **Responsive design** that works on all screen sizes
-- **Accessibility-first** approach
-
-### 🚦 **Gentle Limits**
-- **Per-site daily limits** with customizable durations
-- **Smart warning system** with visual cues
-- **Soft blocking** with encouraging break reminders
-- **Motivational messaging** to support healthy habits
-
-## 🚀 Installation
-
-### Method 1: Chrome Web Store (Coming Soon)
-1. Visit the Chrome Web Store
-2. Search for "Digital Halo"
-3. Click "Add to Chrome"
-
-### Method 2: Developer Mode (Current)
-1. Download or clone this repository
-2. Open Chrome and go to `chrome://extensions/`
-3. Enable "Developer mode" in the top right
-4. Click "Load unpacked" and select the extension folder
-5. The Digital Halo icon should appear in your extensions
 
 ## 📁 Project Structure
 
@@ -101,24 +80,6 @@ digital-halo/
 - `activeTab` - Track time on current tab
 - `scripting` - Inject content scripts dynamically
 
-## 🎛️ Configuration
-
-### **Default Monitored Sites**
-- Instagram (60 min limit)
-- YouTube (120 min limit)
-- Twitter/X (30 min limit)
-- Facebook (45 min limit)
-- Reddit (90 min limit)
-- TikTok (30 min limit)
-- LinkedIn (60 min limit)
-
-### **Customization Options**
-- **Add new sites** - Monitor any domain
-- **Adjust time limits** - Set per-site daily limits
-- **Theme selection** - Choose dark or light mode
-- **Notification settings** - Enable/disable alerts
-- **Soft blocking** - Toggle gentle limit enforcement
-
 ## 🔒 Privacy & Security
 
 Digital Halo is built with privacy as a core principle:
@@ -160,24 +121,6 @@ git clone https://github.com/yourusername/digital-halo.git
 4. Select the project folder
 ```
 
-## 🐛 Known Issues
-
-- **Tab detection** - May not work on some special Chrome pages
-- **Performance** - Heavy usage sites may impact browser performance
-- **Sync delay** - Settings changes may take a moment to propagate
-
-## 🗺️ Roadmap
-
-- [ ] **Weekly/Monthly reports** - Extended analytics
-- [ ] **Goal setting** - Personal usage targets
-- [ ] **Focus mode** - Block distracting sites temporarily
-- [ ] **Productivity insights** - AI-powered usage analysis
-- [ ] **Social features** - Share progress with friends
-- [ ] **Mobile companion** - Extend tracking to mobile devices
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
